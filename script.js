@@ -18,3 +18,4 @@ sections.forEach(section => {
     section.style.transition = "all 0.8s ease";
     observer.observe(section);
 });
+ 
